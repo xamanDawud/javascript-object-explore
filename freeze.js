@@ -23,3 +23,4 @@ delete cremeBox.haveCream;
 // console.log(cremeBox);
 
 Object.freeze(cremeBox);
+``;
